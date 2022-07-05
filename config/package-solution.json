@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-bs-table-client-side-solution",
+    "id": "eb3d34ad-e25a-4b2a-ac3f-3ab0f9d8b941",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-bs-table description"
+      },
+      "longDescription": {
+        "default": "react-bs-table description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-bs-table Feature",
+        "description": "The feature that activates elements of the react-bs-table solution.",
+        "id": "f6a742e8-41d5-4deb-8337-ac3034911cba",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-bs-table.sppkg"
+  }
+}
